@@ -1,0 +1,2 @@
+SCHEMA: <source> <destination> <rate: packets/second> //This workload is for testing purpose.
+localhost:3001 localhost:3006 1.0
