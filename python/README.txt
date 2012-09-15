@@ -1,0 +1,1 @@
+This directory contains the Python implementation for the class Project II of CSci5211 (Fall 2009).
